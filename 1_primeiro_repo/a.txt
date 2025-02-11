@@ -1,3 +1,6 @@
 TESTE DELETAR ARQUIVO no txt
 
 TESTE DE CLONE
+
+
+testando reset
